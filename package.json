@@ -1,0 +1,19 @@
+{
+  "name": "deep-end-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.11",
+    "fable-compiler": "^0.7.51",
+    "fable-core": "^0.7.30",
+    "fable-import-electron": "0.0.9",
+    "source-map-loader": "^0.2.1",
+    "webpack": "^3.4.1"
+  }
+}
